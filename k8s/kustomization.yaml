@@ -8,4 +8,4 @@ namespace: hello-gitops
 images:
 - name: hello-gitops
   newName: docker22de/hello-gitops
-  newTag: 3e503ec018733e8bdded5c676ac7a4bc4d720830
+  newTag: 156ab2a1b30dc046bb52a64b1feb40244f440f6a
