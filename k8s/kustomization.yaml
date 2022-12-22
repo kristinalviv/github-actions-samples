@@ -7,5 +7,5 @@ resources:
 namespace: hello-gitops
 images:
 - name: hello-gitops
-  newName: elisska/hello-gitops
-  newTag: 66430e101949c340725a99f5fefa26f554fc2806
+  newName: docker22de/hello-gitops
+  newTag: 3e503ec018733e8bdded5c676ac7a4bc4d720830
